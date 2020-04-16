@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import other.Marca;
 import sql.SQLCommands;
 import sql.SQLConnection;
+import venda.Marca;
 import sql.SQL;
 
 import java.lang.reflect.AnnotatedType;

@@ -2,11 +2,10 @@ package sql_manager;
 
 import sql.SQLConnection;
 import sql_manager.DatabaseDAO;
+import venda.Marca;
 
 import java.sql.Connection;
 import java.util.List;
-
-import other.Marca;
 
 public class Database<O> {
 	

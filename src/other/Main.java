@@ -1,9 +1,9 @@
 package other;
 
 import mySql.MySQL;
-import other.Marca;
 import sql.SQLConnection;
 import sql_manager.Database;
+import venda.Marca;
 
 public class Main {
 

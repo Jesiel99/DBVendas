@@ -1,4 +1,4 @@
-package other;
+package venda;
 
 public class Marca {
 	private int codigo;
